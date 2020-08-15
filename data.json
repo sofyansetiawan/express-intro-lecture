@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Frendy",
+        "address": "Palembang",
+        "age": 22
+    },
+    {
+        "id": 2,
+        "name": "Satriko",
+        "address": "Bandung",
+        "age": 23
+    },
+    {
+        "id": 3,
+        "name": "Yesia",
+        "address": "Malang",
+        "age": 21
+    },
+    {
+        "id": 4,
+        "name": "Daniel",
+        "address": "Jogja",
+        "age": 18
+    }
+]
